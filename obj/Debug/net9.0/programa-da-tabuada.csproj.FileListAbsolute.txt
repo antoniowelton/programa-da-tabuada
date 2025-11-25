@@ -1,0 +1,14 @@
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\obj\Debug\net9.0\programa-da-tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\obj\Debug\net9.0\programa-da-tabuada.AssemblyInfoInputs.cache
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\obj\Debug\net9.0\programa-da-tabuada.AssemblyInfo.cs
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\obj\Debug\net9.0\programa-da-tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\bin\Debug\net9.0\programa-da-tabuada.exe
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\bin\Debug\net9.0\programa-da-tabuada.deps.json
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\bin\Debug\net9.0\programa-da-tabuada.runtimeconfig.json
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\bin\Debug\net9.0\programa-da-tabuada.dll
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\bin\Debug\net9.0\programa-da-tabuada.pdb
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\obj\Debug\net9.0\programa-da-tabuada.dll
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\obj\Debug\net9.0\refint\programa-da-tabuada.dll
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\obj\Debug\net9.0\programa-da-tabuada.pdb
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\obj\Debug\net9.0\programa-da-tabuada.genruntimeconfig.cache
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\programa-da-tabuada\obj\Debug\net9.0\ref\programa-da-tabuada.dll
